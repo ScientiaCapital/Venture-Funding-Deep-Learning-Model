@@ -1,8 +1,8 @@
-# Venture Funding Profitability Prediction Model
+# Venture Funding Prediction Model
 
 Alphabet Soup is a fictional venture capital firm that receives multiple funding applications from startups every day. With the utilization of data containing information from past applicants, this module attempts to create a neural network model which will predict which startups will be successful.
 
-![Venture_Funding_Profitability_Prediction_Model](https://github.com/ScientiaCapital/Venture-Funding-Deep-Learning-Model/blob/main/Resources/vcimage1.jpeg)
+![Venture_Funding_Prediction_Model](https://github.com/ScientiaCapital/Venture-Funding-Deep-Learning-Model/blob/main/Resources/vcimage1.jpeg)
 
 ---
 
