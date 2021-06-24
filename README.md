@@ -2,7 +2,7 @@
 
 Alphabet Soup is a fictional venture capital firm that receives multiple funding applications from startups every day. With the utilization of data containing information from past applicants, this module attempts to create a neural network model which will predict which startups will be successful.
 
-![Venture_Funding_Profitability_Prediction_Model]()
+![Venture_Funding_Profitability_Prediction_Model](With the notebook open in Google Colab step through each of the code blocks to review analysis.)
 
 ---
 
