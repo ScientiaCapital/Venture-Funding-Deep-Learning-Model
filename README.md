@@ -51,7 +51,7 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
 2. Open Google Colab.
 
-3. Open venture_funding_with_deep_learning.ipynb within Google Colab.
+3. Open venture_funding_prediction_model.ipynb within Google Colab.
 
 4. During the section in which the .csv file applicants_data.csv is imported, ensure that this file is present on your personal machine from the repository cloning in Step 1.
 
