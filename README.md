@@ -39,7 +39,7 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
 ## Examples
 
-![Example_One]()
+![Example_One](https://github.com/ScientiaCapital/Venture-Funding-Deep-Learning-Model/blob/main/Resources/Screen%20Shot%202021-06-24%20at%208.08.01%20AM.png)
 
 ![Example_Two]()
 
